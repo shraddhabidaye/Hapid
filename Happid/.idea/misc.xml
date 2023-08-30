@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.135" />
+        <entry key="app/src/main/res/drawable/edit_text_round_corner.xml" value="0.132" />
+        <entry key="app/src/main/res/drawable/ic_baseline_back.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_baseline_photo_camera_24.xml" value="0.1695" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.135" />
+        <entry key="app/src/main/res/layout/activity_login.xml" value="0.3946044921875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/layout/activity_otp_verify.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/activity_profile.xml" value="0.15277099609374997" />
+        <entry key="app/src/main/res/layout/activity_splash_intro.xml" value="0.168145751953125" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.15496978759765626" />
+        <entry key="app/src/main/res/layout/layout_otp.xml" value="0.30000610351562496" />
+        <entry key="app/src/main/res/layout/toolbar.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.3946044921875" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
